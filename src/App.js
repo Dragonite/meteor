@@ -1,0 +1,29 @@
+import React, { Component } from 'react';
+import logo from './snowflake.svg';
+import github from './githubicon.png';
+import githubwhite from './githubwhite.png';
+import linkedin from './linkedin.png';
+import instagram from './instagram.png';
+import './App.css';
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <div className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          
+        </div>
+
+        <div className="App-body">
+          <a href="https://github.com/haolinwu97"><img src={githubwhite}/></a>
+          <a href="https://www.linkedin.com/in/haolin-wu-222188160/"><img src={linkedin}/></a>
+          <a href="https://www.instagram.com/haolin_wu/"><img src={instagram}/></a>
+        </div>
+
+      </div>
+    );
+  }
+}
+
+export default App;
