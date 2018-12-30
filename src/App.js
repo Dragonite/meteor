@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import logo from './snowflake.svg';
-import github from './githubicon.png';
 import githubwhite from './githubwhite.png';
 import linkedin from './linkedin.png';
 import instagram from './instagram.png';
@@ -16,7 +15,7 @@ class App extends Component {
         </div>
 
         <div className="App-body">
-          <a href="https://github.com/haolinwu97"><img src={githubwhite}/></a>
+          <a href="https://github.com/Dragonite"><img src={githubwhite}/></a>
           <a href="https://www.linkedin.com/in/haolin-wu-222188160/"><img src={linkedin}/></a>
           <a href="https://www.instagram.com/haolin_wu/"><img src={instagram}/></a>
         </div>
