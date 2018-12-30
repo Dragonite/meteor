@@ -33,9 +33,7 @@ a {
     background-repeat:no-repeat;
     border: none;
     cursor:pointer;
-    /*overflow: hidden;*/
     outline:none;
-    /*width: 80px;*/
     margin: 10px 10px 10px 10px;
 }
 
