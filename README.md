@@ -2,6 +2,8 @@
 
 Website written in React for http://www.haolin.me
 
+![Haolin Wu](/src/preview.png)
+
 ## Install Dependencies
 ```bash
 npm install 
