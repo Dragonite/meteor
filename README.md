@@ -1,6 +1,6 @@
-# ReachCharts App
+# Haolin Wu's Website
 
-Example app showing you how to use react-chartjs-2 in a project
+Website written in React for http://www.haolin.me
 
 ## Install Dependencies
 ```bash
