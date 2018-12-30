@@ -3,9 +3,9 @@ import logo from './snowflake.svg';
 import githubwhite from './githubwhite.png';
 import linkedin from './linkedin.png';
 import instagram from './instagram.png';
-import './App.css';
+import './Site.css';
 
-class App extends PureComponent {
+class Site extends PureComponent {
   render() {
     return (
       <div className="App">
@@ -22,4 +22,4 @@ class App extends PureComponent {
     );
   }
 }
-export default App;
+export default Site;
