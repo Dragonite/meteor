@@ -1,8 +1,8 @@
 import React, { PureComponent } from 'react';
 import logo from './snowflake.svg';
-import githubwhite from './githubwhite.png';
-import linkedin from './linkedin.png';
-import instagram from './instagram.png';
+import githubwhite from './logo/githubwhite.png';
+import linkedin from './logo/linkedin.png';
+import instagram from './logo/instagram.png';
 import './Site.css';
 
 class Site extends PureComponent {
