@@ -1,6 +1,6 @@
 # Haolin Wu's Website
 
-[![NPM Version](https://badge.fury.io/js/esta.svg?style=flat)](https://npmjs.org/package/esta)
+[![GitHub version](https://badge.fury.io/gh/Dragonite%2Fmeteor.svg)](https://badge.fury.io/gh/Dragonite%2Fmeteor)
 
 Website written in React for http://www.haolin.me
 
